@@ -128,4 +128,7 @@ while True:
             d = Developer(names,ags,ids,lang) 
             d.display()   
         case 8:
-            print("\nExiting the system.All resources have been freed.\n\nGoodbye!")            
+            print("\nExiting the system.All resources have been freed.\n\nGoodbye!") 
+        case 9:
+            print("Invalid Choice")    
+            break           
