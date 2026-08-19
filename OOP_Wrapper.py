@@ -129,6 +129,6 @@ while True:
             d.display()   
         case 8:
             print("\nExiting the system.All resources have been freed.\n\nGoodbye!") 
-        case 9:
+        case _:
             print("Invalid Choice")    
             break           
